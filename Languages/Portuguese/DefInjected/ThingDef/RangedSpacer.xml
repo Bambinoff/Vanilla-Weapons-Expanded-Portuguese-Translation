@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge Pistol -->
+
+  <VWE_Gun_ChargePistol.label>pistola de carga</VWE_Gun_ChargePistol.label>
+  <VWE_Gun_ChargePistol.description>Uma pistola de carga. A tecnologia de carga de pulso carrega cada tiro com energia instável quando sai do cano. Liberada com o impacto, a energia carregada aumenta muito o dano causado.\n\nEsta pistola de três tiros é uma arma de cintura muito eficaz, distribuida em todos os regimentos dos comandos imperiais.</VWE_Gun_ChargePistol.description>
+  <VWE_Gun_ChargePistol.tools.0.label>cano</VWE_Gun_ChargePistol.tools.0.label>
+  <VWE_Bullet_ChargePistol.label>tiro de pistola de carga</VWE_Bullet_ChargePistol.label>
+
+
+  <!-- Charge Shotgun -->
+
+  <VWE_Gun_ChargeShotgun.label>espingarda de carga</VWE_Gun_ChargeShotgun.label>
+  <VWE_Gun_ChargeShotgun.description>Uma espingarda de carga. A tecnologia de carga de pulso carrega cada tiro com energia instável quando sai do cano. Liberada com o impacto, a energia carregada aumenta muito o dano causado.\n\nMortal a queima-roupa, esta espingarda foi banida pelas forças armadas imperiais por infligir dor incomensurável.</VWE_Gun_ChargeShotgun.description>
+  <VWE_Gun_ChargeShotgun.tools.0.label>cano</VWE_Gun_ChargeShotgun.tools.0.label>
+  <VWE_Bullet_ChargeShotgun.label>tiro de espingarda de carga</VWE_Bullet_ChargeShotgun.label>
+
+
+  <!-- Charge SMG -->
+
+  <VWE_Gun_ChargeSMG.label>SMG de carga</VWE_Gun_ChargeSMG.label>
+  <VWE_Gun_ChargeSMG.description>Uma metralhadora de carga. A tecnologia de carga de pulso carrega cada tiro com energia instável quando sai do cano. Liberada com o impacto, a energia carregada aumenta muito o dano causado.\n\nDispara rapidamente, mas requer diminuir a distância entre o alvo.</VWE_Gun_ChargeSMG.description>
+  <VWE_Gun_ChargeSMG.tools.0.label>cano</VWE_Gun_ChargeSMG.tools.0.label>
+  <VWE_Bullet_ChargeSMG.label>tiro de SMG de carga</VWE_Bullet_ChargeSMG.label>
+
+
+  <!-- Charge LMG -->
+
+  <VWE_Gun_ChargeLMG.label>LMG de carga</VWE_Gun_ChargeLMG.label>
+  <VWE_Gun_ChargeLMG.description>A charged-shot light machine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCharge light machine gun fires a volley of projectiles at extreme speed which makes it ideal for area denial.</VWE_Gun_ChargeLMG.description>
+  <VWE_Gun_ChargeLMG.tools.0.label>cano</VWE_Gun_ChargeLMG.tools.0.label>
+  <VWE_Bullet_ChargeLMG.label>tiro de LMG de carga</VWE_Bullet_ChargeLMG.label>
+
+
+  <!-- Charge Sniper Rifle -->
+
+  <VWE_Gun_ChargeSniperRifle.label>rifle de precisão de carga</VWE_Gun_ChargeSniperRifle.label>
+  <VWE_Gun_ChargeSniperRifle.description>Rifle de precisão com cano triplo de carga. A tecnologia de carga de pulso carrega cada tiro com energia instável quando sai do cano. Liberada com o impacto, a energia carregada aumenta muito o dano causado.\n\nDevido a três canos separados disparando simultaneamente, o poder da arma é reduzido e a taxa de tiro é reduzida.</VWE_Gun_ChargeSniperRifle.description>
+  <VWE_Gun_ChargeSniperRifle.tools.0.label>coronha</VWE_Gun_ChargeSniperRifle.tools.0.label>
+  <VWE_Gun_ChargeSniperRifle.tools.1.label>cano</VWE_Gun_ChargeSniperRifle.tools.1.label>
+  <VWE_Bullet_ChargeSniperRifle.label>tiro de carga</VWE_Bullet_ChargeSniperRifle.label>
+
+
+  <!-- Charge Minigun -->
+
+  <VWE_Gun_ChargeMinigun.label>minigun de carga</VWE_Gun_ChargeMinigun.label>
+  <VWE_Gun_ChargeMinigun.description>Uma minigun de carga. A tecnologia de carga de pulso carrega cada tiro com energia instável quando sai do cano. Liberada com o impacto, a energia carregada aumenta muito o dano causado.\n\nCapaz de cobrir toda a área durante uma saraivada de rodadas anti-armadura, esta minigun é frequentemente usada por mercenários do mundo dos brilhos durante seus ataques infames.</VWE_Gun_ChargeMinigun.description>
+  <VWE_Gun_ChargeMinigun.tools.0.label>coronha</VWE_Gun_ChargeMinigun.tools.0.label>
+  <VWE_Gun_ChargeMinigun.tools.1.label>cano</VWE_Gun_ChargeMinigun.tools.1.label>
+  <VWE_Bullet_ChargeMinigun.label>tiro de minigun de carga</VWE_Bullet_ChargeMinigun.label>
+
+
+</LanguageData>

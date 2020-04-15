@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge Rocket Launcher -->
+
+  <VWE_Gun_ChargeRocketLauncher.label>lançador de foguetes de carga</VWE_Gun_ChargeRocketLauncher.label>
+  <VWE_Gun_ChargeRocketLauncher.description>Dispara um único invólucro antigrain com precisão precisa devido a mira a laser. A ogiva explode no ar, liberando uma onda de eletrochoque mortal.</VWE_Gun_ChargeRocketLauncher.description>
+  <VWE_Gun_ChargeRocketLauncher.tools.0.label>tambor</VWE_Gun_ChargeRocketLauncher.tools.0.label>
+  <VWE_Rocket_AntiGrain.label>foguete antigrain</VWE_Rocket_AntiGrain.label>
+
+
+</LanguageData>

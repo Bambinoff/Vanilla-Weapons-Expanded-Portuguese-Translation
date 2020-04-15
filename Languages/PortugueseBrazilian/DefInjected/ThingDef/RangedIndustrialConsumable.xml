@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Triple Rocket Launcher -->
+
+  <Gun_TripleRocket.label>lançador de foguetes triplo</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>Lançador de foguetes de um uso único que dispara 3 projéteis em uma rápida sucessão. Bom contra pequenos grupos de alvos dificeis.\n\Por causa de sua dificuldade, limitação de uso único e da destruição maciça que causa, é dito que é preciso ser um pouco louco para usar essa arma.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.0.label>barril</Gun_TripleRocket.tools.0.label>
+
+
+  <!-- Doomsday Rocket Launcher -->
+
+  <Gun_DoomsdayRocket.label>lançador de foguetes apocaliptico</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>Lançador de foguetes de um uso único para uma rápida sucessão. Bom contra grandes grupos de alvos fáceis. Começa a disparar.\n\Por causa de sua dificuldade de manuseio, limitação de uso único e da destruição maciça que causa, é dito que é preciso ser um pouco louco para usar essa arma.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.0.label>barril</Gun_DoomsdayRocket.tools.0.label>
+
+
+  <!-- Rocket Launcher -->
+
+  <VWE_Gun_RocketLauncher.label>lançador de foguetes</VWE_Gun_RocketLauncher.label>
+  <VWE_Gun_RocketLauncher.description>Dispara um único tiro de morteiro com alta precisão.</VWE_Gun_RocketLauncher.description>
+  <VWE_Gun_RocketLauncher.tools.0.label>barril</VWE_Gun_RocketLauncher.tools.0.label>
+
+
+</LanguageData>

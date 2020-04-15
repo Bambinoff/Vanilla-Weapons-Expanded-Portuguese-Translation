@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VWE_Longbow.label>arco longo</VWE_Longbow.label>
+  <VWE_Longbow.description>Crie arcos longos, um equivalente neolitico ao rifle de precisão.</VWE_Longbow.description>
+
+  <VWE_Crossbow.label>besta</VWE_Crossbow.label>
+  <VWE_Crossbow.description>Construa bestas, uma arma de longo alcance medieval eficaz contra inimigos blindados.</VWE_Crossbow.description>
+
+  <VWE_CompoundBow.label>arco composto</VWE_CompoundBow.label>
+  <VWE_CompoundBow.description>Construa arcos compostos, que usam componentes da era industrial para disparar flechas silenciosamente com maior eficiência.</VWE_CompoundBow.description>
+
+  <VWE_Tools.label>ferramentas</VWE_Tools.label>
+  <VWE_Tools.description>Ferramentas do trabalhador Smith para ajudar no trabalho manual.</VWE_Tools.description>
+
+  <VWE_Gunpowder.label>pólvora</VWE_Gunpowder.label>
+  <VWE_Gunpowder.description>Sintetize a pólvora, o primeiro explosivo quimico conhecido.</VWE_Gunpowder.description>
+
+  <VWE_TrenchWarfare.label>guerra de trincheiras</VWE_TrenchWarfare.label>
+  <VWE_TrenchWarfare.description>Adapte uma doutrina de guerra de trincheira com uma seleção de armas para combate de perto.</VWE_TrenchWarfare.description>
+
+  <VWE_HeavyWeapons.label>armas pesadas</VWE_HeavyWeapons.label>
+  <VWE_HeavyWeapons.description>Construa armas pesadas que ofereçam poder de fogo superior, ao custo de serem muito exigentes fisicamente.</VWE_HeavyWeapons.description>
+
+  <VWE_Flamethrower.label>lança-chamas</VWE_Flamethrower.label>
+  <VWE_Flamethrower.description>Construa lança-chamas, armas que projetam um longo e controlável fluxo de fogo. Sua letalidade levou a proibições em muitos mundos civilizados.</VWE_Flamethrower.description>
+
+  <VWE_SpecializedFirearms.label>armas de fogo especializadas</VWE_SpecializedFirearms.label>
+  <VWE_SpecializedFirearms.description>Crie armas especializadas para cenários de combate exigentes.</VWE_SpecializedFirearms.description>
+
+  <VWE_DesignatedMarksmanRifle.label>rifle de atirador</VWE_DesignatedMarksmanRifle.label>
+  <VWE_DesignatedMarksmanRifle.description>Construa rifles de atirador semi-automáticos, para uso em compromissos de longa distância.</VWE_DesignatedMarksmanRifle.description>
+
+  <VWE_TacticalGrenades.label>granadas táticas</VWE_TacticalGrenades.label>
+  <VWE_TacticalGrenades.description>Crie granadas especializadas, úteis em uma variedade de confrontos.</VWE_TacticalGrenades.description>
+
+  <VWE_LaserTargetingSystems.label>sistemas de mira a laser</VWE_LaserTargetingSystems.label>
+  <VWE_LaserTargetingSystems.description>Adapte os sistemas de mira a laser para entrega precisa e rápida de ogivas carregadas.</VWE_LaserTargetingSystems.description>
+
+
+</LanguageData>

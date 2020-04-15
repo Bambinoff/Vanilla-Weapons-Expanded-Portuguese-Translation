@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Smoke grenade -->
+
+  <VWE_SmokeGrenade.label>granadas de fumaça</VWE_SmokeGrenade.label>
+  <VWE_SmokeGrenade.description>Recipiente de fumaça condensada das antigos que explode em uma parede de fumaça com impacto.</VWE_SmokeGrenade.description>
+  <VWE_SmokeGrenade.verbs.0.label>granada de fumaça</VWE_SmokeGrenade.verbs.0.label>
+  <VWE_Projectile_SmokeGrenade.label>granada de fumaça</VWE_Projectile_SmokeGrenade.label>
+
+
+  <!-- Grenade toxic-->
+
+  <VWE_ToxicGrenade.label>granadas tóxicas</VWE_ToxicGrenade.label>
+  <VWE_ToxicGrenade.description>Cartucho de gás letal alimentado por carga, causando acúmulo tóxico grave por um periodo muito curto.</VWE_ToxicGrenade.description>
+  <VWE_ToxicGrenade.verbs.0.label>granada tóxica</VWE_ToxicGrenade.verbs.0.label>
+  <VWE_Projectile_ToxicGrenade.label>granada tóxica</VWE_Projectile_ToxicGrenade.label>
+
+
+  <!-- Flash grenade -->
+
+  <VWE_FlashGrenade.label>granadas de luz</VWE_FlashGrenade.label>
+  <VWE_FlashGrenade.description>Uma granada de luz. Atordoa temporariamente inimigos orgânicos, permitindo que os usuários diminuam a distância.</VWE_FlashGrenade.description>
+  <VWE_FlashGrenade.verbs.0.label>granada de luz</VWE_FlashGrenade.verbs.0.label>
+  <VWE_Projectile_FlashGrenade.label>granada de luz</VWE_Projectile_FlashGrenade.label>
+
+
+</LanguageData>
